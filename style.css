@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: rgb(8, 8, 250)
     cornflowerblue rgb(223, 245, 171);  
 }
@@ -12,4 +12,23 @@ h2  {
     font-synthesis-weight: bold;
     font-size: 30px;
     color: yellow;
+} */
+
+
+body{
+    background-color: #114134;
+    color: #93ec8c;
 }
+h2{
+    color: #eae466;
+}
+.titulo_secao{
+    color: #009739;
+}
+#nome_cursista{
+    font-weight: bold;
+    font-size: 45px;
+    color: #eae466;
+}
+
+
